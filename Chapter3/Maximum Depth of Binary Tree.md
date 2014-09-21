@@ -1,13 +1,7 @@
-# Evaluate Reverse Polish Notation
-Evaluate the value of an arithmetic expression in Reverse Polish Notation.
+# Maximum Depth of Binary Tree
+Given a binary tree, find its maximum depth.
 
-Valid operators are +, -, *, /. Each operand may be an integer or another expression.
-
-###Some examples
-```
-["2", "1", "+", "3", "*"] -> ((2 + 1) * 3) -> 9
-["4", "13", "5", "/", "+"] -> (4 + (13 / 5)) -> 6
-```
+The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
 
 ### Solution
 ``` c
