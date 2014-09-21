@@ -5,44 +5,24 @@ The maximum depth is the number of nodes along the longest path from the root no
 
 ### Solution
 ``` c
-class Solution {
-public:
-    int s2i(string s) {
-        bool isPositive = true;
-        if (s[0] == '-')
-            isPositive = false;
-        int i = isPositive? 0:1;
-        int ret = 0;
-        for (; i < s.size(); i++)
-            ret = ret * 10 + s[i] - '0';
-        return isPositive? ret:(-ret);
-    }
-
-    int evalRPN(vector<string> &tokens) {
-        vector<string>::iterator it =  tokens.begin();
-        vector<int> temp;
-        while (it < tokens.end()) {
-            if (*it == "+" || *it == "-" || *it == "*" || *it == "/") {
-                int num2 = temp.back();
-                temp.pop_back();
-                int num1 = temp.back();
-                temp.pop_back();
-                if (*it == "+")
-                    temp.push_back(num1 + num2);
-                else if (*it == "-")
-                    temp.push_back(num1 - num2);
-                else if (*it == "*")
-                    temp.push_back(num1 * num2);
-                else
-                    temp.push_back(num1 / num2);    
-            }
-            else
-                temp.push_back(s2i(*it));
-            it++;
+/**
+     * Definition for binary tree
+     * struct TreeNode {
+     *     int val;
+     *     TreeNode *left;
+     *     TreeNode *right;
+     *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+     * };
+     */
+    class Solution {
+    public:
+        int maxDepth(TreeNode *root) {
+            if (!root)
+                return 0;
+            else 
+                return max(maxDepth(root->left)+1, maxDepth(root->right)+1);
         }
-        return temp[0];
-    }
-};
+    };
 ```
 <div id="disqus_thread"></div>
 <script type="text/javascript">

@@ -36,4 +36,5 @@
     * [Linked List Cycle](Chapter3/Linked List Cycle.md)
     * [Single Number](Chapter3/Single Number.md)
     * [Evaluate Reverse Polish Notation](Evaluate Reverse Polish Notation.md)
+    * [Maximum Depth of Binary Tree](Maximum Depth of Binary Tree.md)
 
