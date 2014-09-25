@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# Revision 1411309364581
+# Revision 1411651073094
 
 CACHE:
 Leetcode-in-C++.html
@@ -16,9 +16,10 @@ Chapter2/Question2.3.html
 Chapter2/Question2.4.html
 Chapter2/Question2.5.html
 Chapter2/Question3.1.html
-Chapter2/Question3.5.html
 Chapter2/Question3.2.html
+Chapter2/Question3.5.html
 Chapter2/Question3.6.html
+Chapter3/Best-Time-to-Buy-and-Sell-Stock-II.html
 Chapter3/Evaluate-Reverse-Polish-Notation.html
 Chapter3/Linked-List-Cycle.html
 Chapter3/Maximum-Depth-of-Binary-Tree.html
