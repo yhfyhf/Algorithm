@@ -2,9 +2,9 @@
 
 These are all about the algorithm exerciese I have done.
 
-- [Chapter 1: Leetcode in Python](Leetcode in Python.html)
-- [Chapter 2: Cracking the Coding Interview in C++](Cracking the Coding Interview.html)
-- [Chapter 3: Leetcode in C++](Leetcode in C++.html)
+- [Chapter 1: Leetcode in Python](http://yinghaofei.tk/Algorithm/book/Leetcode-in-Python.html)
+- [Chapter 2: Cracking the Coding Interview in C++](http://yinghaofei.tk/Algorithm/book/Cracking-the-Coding-Interview.html)
+- [Chapter 3: Leetcode in C++](http://yinghaofei.tk/Algorithm/book/Leetcode-in-C++.html)
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">

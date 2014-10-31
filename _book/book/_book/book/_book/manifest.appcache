@@ -1,8 +1,8 @@
 CACHE MANIFEST
-# Revision 1411308522479
+# Revision 1411309315660
 
 CACHE:
-Leetcode in C++.html
+Leetcode-in-C++.html
 Chapter2/Question2.2.html
 Chapter2/Question1.1.html
 Chapter2/Question1.3.html
@@ -19,26 +19,26 @@ Chapter2/Question3.1.html
 Chapter2/Question3.2.html
 Chapter2/Question3.5.html
 Chapter2/Question3.6.html
-Chapter3/Evaluate Reverse Polish Notation.html
-Chapter3/Linked List Cycle.html
-Chapter3/Maximum Depth of Binary Tree.html
-Chapter3/Single Number.html
-Cracking the Coding Interview.html
-Chapter1/Remove Duplicates from Sorted List.html
+Chapter3/Evaluate-Reverse-Polish-Notation.html
+Chapter3/Linked-List-Cycle.html
+Chapter3/Maximum-Depth-of-Binary-Tree.html
+Chapter3/Single-Number.html
+Cracking-the-Coding-Interview.html
+Chapter1/Remove-Duplicates-from-Sorted-List.html
 Chapter1/Anagrams.html
-Chapter1/Climbing Stairs.html
-Chapter1/Evaluate Reverse Polish Notation.html
-Chapter1/Maximum Depth of Binary Tree.html
-Chapter1/Maximum Subarray.html
-Chapter1/Merge Two Sorted Lists.html
-Chapter1/Binary Tree Preorder Traverse.html
-Chapter1/Remove Element.html
-Chapter1/Reverse Words in A String.html
-Chapter1/Same Tree.html
-Chapter1/Search Insert Position.html
-Chapter1/Two Sum.html
-Chapter1/Valid Palindrome.html
-Leetcode in Python.html
+Chapter1/Climbing-Stairs.html
+Chapter1/Evaluate-Reverse-Polish-Notation.html
+Chapter1/Maximum-Depth-of-Binary-Tree.html
+Chapter1/Maximum-Subarray.html
+Chapter1/Merge-Two-Sorted-Lists.html
+Chapter1/Binary-Tree-Preorder-Traverse.html
+Chapter1/Remove-Element.html
+Chapter1/Reverse-Words-in-a-String.html
+Chapter1/Same-Tree.html
+Chapter1/Search-Insert-Position.html
+Chapter1/Two-Sum.html
+Chapter1/Valid-Palindrome.html
+Leetcode-in-Python.html
 index.html
 gitbook/app.js
 gitbook/fonts/anonymouspro/400.woff
@@ -76,8 +76,8 @@ gitbook/jsrepl/sandbox.html
 gitbook/jsrepl/sandbox.js
 gitbook/print.css
 gitbook/style.css
-gitbook/plugins/gitbook-plugin-mathjax/plugin.js
 gitbook/plugins/gitbook-plugin-mixpanel/plugin.js
+gitbook/plugins/gitbook-plugin-mathjax/plugin.js
 
 NETWORK:
 *
